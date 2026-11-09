@@ -14,4 +14,4 @@ Le repertoire `agent/` contient le code C++ du projet et le devcontainer pour av
 
 # ALERTE
 
-j'ai du retirer les data d'analyse d'image, car elle depassait la limite de github
+j'ai du retirer les data d'analyse d'image, car elle depassait la limite de github.
